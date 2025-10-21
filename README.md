@@ -22,8 +22,8 @@ With smooth controls, pixel-style graphics, and real-time gameplay, this project
 - 🧱 Collision detection with self and walls  
 - 🐍 Dynamic snake growth  
 - 💻 Built entirely in **Java Swing** (no external libraries)  
-- 🎨 Simple yet engaging pixel graphics  
-
+- 🎨 Simple yet engaging pixel graphics
+- 
 ---
 
 ## 🧠 Learning Highlights
